@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "abilleshrsp@gmail.com",
+      "id": "6985d9598a43d0fa501fe046",
+      "parentId": "ABIL-abilleshrsp@gmail.com"
+    }
+  ],
+  "itemCount": 3,
+  "parentCounts": [
+    {
+      "_id": "ABIL-abilleshrsp@gmail.com",
+      "count": 1
+    },
+    {
+      "_id": null,
+      "count": 2
+    }
+  ]
+}

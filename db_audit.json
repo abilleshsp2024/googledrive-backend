@@ -1,0 +1,42 @@
+{
+  "userCount": 1,
+  "users": [
+    {
+      "username": "abilleshrsp@gmail.com",
+      "id": "6985d9598a43d0fa501fe046"
+    }
+  ],
+  "itemCount": 3,
+  "recentItems": [
+    {
+      "name": "003_TET_GS_13_2023_CRA.pdf",
+      "id": "6985f875ea5439e019692154",
+      "type": "pdf",
+      "parentId": null,
+      "parentIdType": "object",
+      "ownerId": "6985d9598a43d0fa501fe046",
+      "s3Url": "https://my-app-s3-bucket-2026.s3.ap-south-1.amazonaws.com/drive-uploads/003-TET-GS-13-2023-CRA-1770387571915-676293177.pdf",
+      "createdAt": "2026-02-06T14:19:33.335Z"
+    },
+    {
+      "name": "003_TET_GS_13_2023_CRA.pdf",
+      "id": "6985f76599dbc5e0b1e5a25d",
+      "type": "pdf",
+      "parentId": "ABIL-abilleshrsp@gmail.com",
+      "parentIdType": "string",
+      "ownerId": "6985d9598a43d0fa501fe046",
+      "s3Url": "https://my-app-s3-bucket-2026.s3.ap-south-1.amazonaws.com/drive-uploads/003-TET-GS-13-2023-CRA-1770387300105-512225450.pdf",
+      "createdAt": "2026-02-06T14:15:01.943Z"
+    },
+    {
+      "name": "496_Group IV Syllabus.pdf",
+      "id": "6985f72099dbc5e0b1e5a23c",
+      "type": "pdf",
+      "parentId": null,
+      "parentIdType": "object",
+      "ownerId": "6985d9598a43d0fa501fe046",
+      "s3Url": "https://my-app-s3-bucket-2026.s3.ap-south-1.amazonaws.com/drive-uploads/496-Group-IV-Syllabus-1770387232421-806798684.pdf",
+      "createdAt": "2026-02-06T14:13:52.799Z"
+    }
+  ]
+}

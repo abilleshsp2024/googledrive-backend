@@ -1,0 +1,25 @@
+{
+  "name": "clouddrive-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Backend for CloudDrive",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.967.0",
+    "@aws-sdk/s3-request-presigner": "^3.967.0",
+    "@types/multer-s3": "^3.0.3",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.22.1",
+    "multer": "^2.0.2",
+    "multer-s3": "^3.0.1",
+    "nodemailer": "^8.0.0",
+    "nodemon": "^3.1.11"
+  }
+}
